@@ -1,32 +1,52 @@
-# Olá! 👋 Eu sou o 0well
+<h1 align="center">Hey 👋 Meu nome é Wellington ?</h1>
 
-Bem-vindo ao meu perfil do GitHub!  
-Sou apaixonado por programação, tecnologia e inovação.  
-Aqui você encontra meus projetos de estudo, experimentos e trabalhos pessoais.
+###
 
-## 🚀 Sobre mim
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-- 💻 Desenvolvedor entusiasta de front-end e back-end
-- 📚 Sempre aprendendo novas tecnologias e linguagens
-- 🔬 Interesses em computação quântica, física e simulações
-- 🎯 Buscando contribuir para comunidades open source
+###
 
-## 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-- Python, SQL, Git, GitHub
+###
 
-## 📂 Projetos em destaque
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-- [Codes-of-the-Master](https://github.com/0well/Codes-of-the-Master)
-- [Projetos_front-end](https://github.com/0well/Projetos_front-end)
-- [Curso-de-Programa--o](https://github.com/0well/Curso-de-Programa--o)
-- [Qiskit_Well](https://github.com/0well/Qiskit_Well)
-- [Stern-Gerlach_Simulador](https://github.com/0well/Stern-Gerlach_Simulador)
+###
 
-## 🌐 Contato
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-- [LinkedIn](www.linkedin.com/in/wellington-vasconcelos-simões-60332321b)
-- Email: simoeswell@gmail.com
----
-
-⭐️ Sinta-se à vontade para explorar meus repositórios e contribuir!
+###
