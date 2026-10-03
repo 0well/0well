@@ -9,8 +9,11 @@
 # 👋 Olá, eu sou o Wellington  
 
 🎓Mestre em Modelagem Computacional em Ciência e Tecnologia (UFF)
+
 🎓Formado em Física pelo IFRJ 
+
 💻Iniciação Cientifica (3 anos) no tema de Ensino de Mecanica Quântica nas Escolas"
+
 ---
 
 ## 🚀 Áreas de Interesse  
